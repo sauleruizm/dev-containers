@@ -25,7 +25,19 @@
 		"vscode": {
 			// Add the IDs of extensions you want installed when the container is created.
 			"extensions": [
-				"ms-dotnettools.csharp"
+				"ms-dotnettools.csharp",
+                "Fudge.auto-using",
+                "ms-dotnettools.vscode-dotnet-pack",
+                "ms-dotnettools.vscode-dotnet-runtime",
+                "ms-dotnettools.csharp",
+                "josefpihrt-vscode.roslynator",
+				"adrianwilczynski.namespace",
+				"kreativ-software.csharpextensions",
+				"jesschadwick.nuget-reverse-package-search",
+				
+				//custom themes and styles
+				"akamud.vscode-theme-onedark",
+				"PKief.material-icon-theme"
 			]
 		}
 	},
